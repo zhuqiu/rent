@@ -1,8 +1,8 @@
 {
-  "name": "vue-h5-template",
+  "name": "rent",
   "version": "2.0.0",
-  "description": "A vue h5 template with Vant UI",
-  "author": "Sunnie <sunniejs@163.com>",
+  "description": "rent with Vant UI",
+  "author": "zhuqiu@outlook.com",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
